@@ -502,8 +502,6 @@ public class MainActivity extends AppCompatActivity {
 
         });
 
-
-
         add.setOnClickListener(new View.OnClickListener() {
 
             @Override
@@ -729,14 +727,6 @@ public class MainActivity extends AppCompatActivity {
             }
 
         });
-
-
-
-
-
-
-
-
 
     }
 
