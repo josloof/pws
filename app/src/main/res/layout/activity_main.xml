@@ -220,7 +220,6 @@
         >
 
 
-
         <Button
 
             android:id="@+id/button7"
@@ -229,25 +228,20 @@
 
             android:layout_height="fill_parent"
 
-            android:text="7"
-
-            android:textSize="35dp"
-
-            android:background="@drawable/round_button"
-
-            android:textColor="#000000"
-
-            android:layout_span="1"
-
-            android:typeface="monospace"
+            android:layout_marginTop="1dp"
 
             android:layout_marginRight="1dp"
 
-            android:layout_marginTop="1dp"
+            android:background="#009688"
+            android:layout_span="1"
 
-            />
+            android:text="7"
 
+            android:textColor="#FFFFFF"
 
+            android:textSize="35dp"
+
+            android:typeface="monospace" />
 
         <Button
 
@@ -261,9 +255,9 @@
 
             android:textSize="35dp"
 
-            android:background="@drawable/round_button"
+            android:background="#009688"
 
-            android:textColor="#000000"
+            android:textColor="#FFFFFF"
 
             android:layout_span="1"
 
@@ -287,9 +281,9 @@
 
             android:textSize="35dp"
 
-            android:background="@drawable/round_button"
+            android:background="#009688"
 
-            android:textColor="#000000"
+            android:textColor="#FFFFFF"
 
             android:layout_span="1"
 
@@ -346,7 +340,6 @@
         android:layout_weight="20">
 
 
-
         <Button
 
             android:id="@+id/button4"
@@ -355,23 +348,22 @@
 
             android:layout_height="fill_parent"
 
-            android:text="4"
-
-            android:textSize="35dp"
-
-            android:background="@drawable/round_button"
-
-            android:textColor="#000000"
-
-            android:layout_span="1"
-
-            android:typeface="monospace"
+            android:layout_marginTop="1dp"
 
             android:layout_marginRight="1dp"
 
-            android:layout_marginTop="1dp"/>
 
+            android:layout_span="1"
 
+            android:text="4"
+
+            android:background="#009688"
+
+            android:textColor="#FFFFFF"
+
+            android:textSize="35dp"
+
+            android:typeface="monospace" />
 
         <Button
 
@@ -385,9 +377,10 @@
 
             android:textSize="35dp"
 
-            android:background="@drawable/round_button"
 
-            android:textColor="#000000"
+            android:background="#009688"
+
+            android:textColor="#FFFFFF"
 
             android:layout_span="1"
 
@@ -411,9 +404,9 @@
 
             android:textSize="35dp"
 
-            android:background="@drawable/round_button"
+            android:background="#009688"
 
-            android:textColor="#000000"
+            android:textColor="#FFFFFF"
 
             android:layout_span="1"
 
@@ -489,9 +482,10 @@
 
             android:textSize="35dp"
 
-            android:background="@drawable/round_button"
 
-            android:textColor="#000000"
+            android:background="#009688"
+
+            android:textColor="#FFFFFF"
 
             android:layout_span="1"
 
@@ -515,9 +509,10 @@
 
             android:textSize="35dp"
 
-            android:background="@drawable/round_button"
 
-            android:textColor="#000000"
+            android:background="#009688"
+
+            android:textColor="#FFFFFF"
 
             android:layout_span="1"
 
@@ -541,9 +536,9 @@
 
             android:textSize="35dp"
 
-            android:background="@drawable/round_button"
+            android:background="#009688"
 
-            android:textColor="#000000"
+            android:textColor="#FFFFFF"
 
             android:layout_span="1"
 
@@ -563,7 +558,7 @@
 
             android:layout_height="fill_parent"
 
-            android:text="x"
+            android:text="*"
 
             android:textSize="35dp"
 
@@ -615,9 +610,9 @@
 
             android:textSize="35dp"
 
-            android:background="@drawable/round_button"
+            android:background="#009688"
 
-            android:textColor="#000000"
+            android:textColor="#FFFFFF"
 
             android:layout_span="1"
 
@@ -641,9 +636,9 @@
 
             android:textSize="35dp"
 
-            android:background="@drawable/round_button"
+            android:background="#009688"
 
-            android:textColor="#000000"
+            android:textColor="#FFFFFF"
 
             android:layout_span="1"
 
@@ -667,9 +662,9 @@
 
             android:textSize="35dp"
 
-            android:background="@drawable/round_button"
+            android:background="#009688"
 
-            android:textColor="#000000"
+            android:textColor="#FFFFFF"
 
             android:layout_span="1"
 
